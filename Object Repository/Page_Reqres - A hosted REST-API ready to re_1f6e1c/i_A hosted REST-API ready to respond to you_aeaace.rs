@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_A hosted REST-API ready to respond to you_aeaace</name>
+   <tag></tag>
+   <elementGuidId>8128fcbe-7f37-47f7-a04a-e5ca598b4e64</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/div/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-arrow-circle-down</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>9887b606-17d9-4da0-ac89-aa7acac3dc0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-arrow-circle-down</value>
+      <webElementGuid>0ecb0b51-0c45-44b0-ba52-a59d2f5da3e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;header-content&quot;]/main[@class=&quot;the-sell&quot;]/div[@class=&quot;wrap&quot;]/div[@class=&quot;t-center main-arrow&quot;]/i[@class=&quot;fa fa-arrow-circle-down&quot;]</value>
+      <webElementGuid>011ed4c1-ed84-4a4b-b5f4-2739aa6b1482</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/i</value>
+      <webElementGuid>b92a0b7f-dbff-4b44-a6c0-5f023eb71dec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

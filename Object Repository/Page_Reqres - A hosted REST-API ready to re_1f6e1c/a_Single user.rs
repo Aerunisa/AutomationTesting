@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Single user</name>
+   <tag></tag>
+   <elementGuidId>90352233-6183-4ced-b512-bbf535e60b83</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='console']/div/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e68df5f9-40ce-4b2e-9ad9-60967e6f75b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-key</name>
+      <type>Main</type>
+      <value>try-link</value>
+      <webElementGuid>f62c0041-c282-4bba-8164-f8afcd1eb900</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/api/users/2</value>
+      <webElementGuid>220e64bb-5bde-4640-a29d-d478b6ce08dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Single user </value>
+      <webElementGuid>3bbf6fcd-0226-49e2-8a0d-59f9958637fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;console&quot;)/div[@class=&quot;endpoints&quot;]/ul[1]/li[2]/a[1]</value>
+      <webElementGuid>ecb4ab28-6d79-408b-9eb1-0802126fb01f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='console']/div/ul/li[2]/a</value>
+      <webElementGuid>fb7ea427-cb85-4b48-b329-6daddbb17b1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Single user')]</value>
+      <webElementGuid>64520d3a-e130-44c4-8512-f51acb6dc6e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List users'])[1]/following::a[1]</value>
+      <webElementGuid>803c10a1-0967-4bc0-b4ad-103dd3f2ce1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Support ReqRes'])[1]/following::a[2]</value>
+      <webElementGuid>19a03a68-6af0-498f-bcb1-22fd9b3ae80e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Single user not found'])[1]/preceding::a[1]</value>
+      <webElementGuid>e13f3575-6f04-4872-b651-3f128b9cd855</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List &lt;resource>'])[1]/preceding::a[2]</value>
+      <webElementGuid>f8c1ca87-c3b2-48bc-8d80-7389b6d0a95f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Single user']/parent::*</value>
+      <webElementGuid>2fc184b6-7b95-402c-b550-c522902142ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/api/users/2')]</value>
+      <webElementGuid>5ab9cd8b-8978-4b73-86c6-69201335594a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a</value>
+      <webElementGuid>af224c60-cf68-43d3-a489-4730ae15bb46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/api/users/2' and (text() = ' Single user ' or . = ' Single user ')]</value>
+      <webElementGuid>edcd057a-8365-4034-aa5c-461f54ee69f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

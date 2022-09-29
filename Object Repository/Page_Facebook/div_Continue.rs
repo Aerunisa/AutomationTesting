@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Continue</name>
+   <tag></tag>
+   <elementGuidId>d4e8cf8f-0bdb-4d5d-95d9-78d9f6654f6a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='scrollview']/div/div/div/div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[2]/div/div/div[2]/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.i85zmo3j.alzwoclg.jcxyg2ei.dkyav5mx.mw5ieb4x.is65gj9g</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f5de4e56-947b-4ee8-8407-e236bd7af901</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>i85zmo3j alzwoclg jcxyg2ei dkyav5mx mw5ieb4x is65gj9g</value>
+      <webElementGuid>b149c211-4f56-471b-a678-e13d68ceec9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continue</value>
+      <webElementGuid>1cffa848-aaa2-4d04-a299-b950264c899f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scrollview&quot;)/div[@class=&quot;g4tp4svg om3e55n1 cqf1kptm alzwoclg&quot;]/div[@class=&quot;alzwoclg cqf1kptm om3e55n1&quot;]/div[@class=&quot;alzwoclg cqf1kptm om3e55n1 kyj84mfa cofpoq2j&quot;]/div[@class=&quot;bdao358l om3e55n1 g4tp4svg&quot;]/div[@class=&quot;g4tp4svg om3e55n1 cqf1kptm alzwoclg&quot;]/div[@class=&quot;alzwoclg cqf1kptm om3e55n1&quot;]/div[@class=&quot;alzwoclg cqf1kptm om3e55n1 kyj84mfa cofpoq2j&quot;]/div[@class=&quot;fawcizw8 gvxzyvdx jcxyg2ei alzwoclg o9w3sbdw&quot;]/div[@class=&quot;mfclru0v fawcizw8 gvxzyvdx cqf1kptm alzwoclg i85zmo3j&quot;]/div[@class=&quot;i85zmo3j alzwoclg cqf1kptm om3e55n1 mfclru0v g4tp4svg db8612ze&quot;]/div[@class=&quot;mfclru0v n86u31t8&quot;]/div[@class=&quot;alzwoclg om3e55n1 mfclru0v&quot;]/div[@class=&quot;bdao358l om3e55n1 g4tp4svg oab4agdp g6da2mms yn3a2qjl b52o6v01 a96hb305 mfclru0v lq84ybu9 hf30pyar b3dzj11p&quot;]/div[@class=&quot;f7rl1if4 adechonz rufpak1n qtovjlwq qbmienfq rfyhaz4c rdmi1yqr ohrdq8us nswx41af fawcizw8 l1aqi3e3 om3e55n1 sdu1flz4 dahkl6ri&quot;]/div[1]/div[1]/div[@class=&quot;om3e55n1 g4tp4svg bdao358l alzwoclg cqf1kptm jez8cy9q gvxzyvdx h6ft4zvz q6feio67&quot;]/div[@class=&quot;bdao358l om3e55n1 g4tp4svg alzwoclg cqf1kptm cgu29s5g dnr7xe2t&quot;]/div[@class=&quot;bdao358l om3e55n1 g4tp4svg alzwoclg cqf1kptm jez8cy9q gvxzyvdx s9xz0pwp c4m0enpj r6ydv39a p8bdhjjv gjezrb0y abh4ulrg&quot;]/div[@class=&quot;om3e55n1 g4tp4svg bdao358l alzwoclg cqf1kptm jez8cy9q gvxzyvdx&quot;]/div[@class=&quot;bdao358l om3e55n1 g4tp4svg alzwoclg cqf1kptm cgu29s5g dnr7xe2t&quot;]/div[@class=&quot;bdao358l om3e55n1 g4tp4svg alzwoclg cqf1kptm jez8cy9q gvxzyvdx th51lws0 mfn553m3 gjezrb0y abh4ulrg&quot;]/div[@class=&quot;bdao358l om3e55n1 g4tp4svg alzwoclg jez8cy9q sl27f92c o9w3sbdw sr926ui1 jl2a5g8c q46jt4gp hnay576k rng1terr mtzt5fvk mmwt03ec&quot;]/div[@class=&quot;bdao358l om3e55n1 g4tp4svg alzwoclg cqf1kptm gvxzyvdx aeinzg81 cgu29s5g i15ihif8 fzd7ma4j lcfup58g o9wcebwi d2hqwtrz tgm57n0e&quot;]/div[@class=&quot;qi72231t nu7423ey n3hqoq4p r86q59rh b3qcqh3k fq87ekyn fsf7x5fv s5oniofx m8h3af8h l7ghb35v kjdc1dyq kmwttqpk srn514ro oxkhqvkx rl78xhln nch0832m cr00lzj9 rn8ck1ys s3jn8y49 o9erhkwx dzqi5evh hupbnkgi hvb2xoa8 f14ij5to l3ldwz01 icdlwmnq bdao358l fxk3tzhb cqf1kptm jcxyg2ei om3e55n1 mfclru0v&quot;]/div[@class=&quot;om3e55n1 g4tp4svg alzwoclg jez8cy9q jcxyg2ei i85zmo3j sr926ui1 jl2a5g8c k7n6ui8p b41d885q hmqrhxox got7tec9 frfouenu bonavkto djs4p424 r7bn319e bdao358l aesu6q9g e4ay1f3w n75z76so ed17d2qt&quot;]/div[@class=&quot;i85zmo3j alzwoclg jcxyg2ei dkyav5mx mw5ieb4x is65gj9g&quot;]</value>
+      <webElementGuid>6cbb75c2-e22d-4240-99f2-cfeaeec39128</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollview']/div/div/div/div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[2]/div/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>d98fc2c0-a898-4a6b-a2ab-69b49327d1a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Complete these steps in the next 30 days to make sure that you can use this account.'])[1]/following::div[6]</value>
+      <webElementGuid>f08adc6a-25e6-47eb-8276-8d3ef69cf005</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('We', &quot;'&quot;, 'll take you through a few steps to confirm your account on Facebook.')])[1]/following::div[7]</value>
+      <webElementGuid>3f2e78b5-df00-4e97-8c59-b986fbd04746</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>068eeecf-8111-42b3-a29e-c254fa717fd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Continue' or . = 'Continue')]</value>
+      <webElementGuid>a2c277fd-688b-4d03-b76c-578559bb93ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

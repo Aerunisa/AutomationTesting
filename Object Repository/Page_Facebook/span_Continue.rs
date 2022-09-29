@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Continue</name>
+   <tag></tag>
+   <elementGuidId>b2518c5a-ae0f-41e3-9ac8-3e42047ac517</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='scrollview']/div/div/div/div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[3]/div/div/div/div/div/div/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.gvxzyvdx.aeinzg81.t7p7dqev.gh25dzvf.exr7barw.b6ax4al1.gem102v4.ncib64c9.mrvwc6qr.sx8pxkcf.f597kf1v.cpcgwwas.m2nijcs8.hxfwr5lz.k1z55t6l.oog5qr5w.innypi6y.qtx5e3l4 > span.b6ax4al1.lq84ybu9.hf30pyar.om3e55n1.oshhggmv.qm54mken</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>20ec3d94-6b4a-4bc5-91a6-5cb0d5c5f315</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>b6ax4al1 lq84ybu9 hf30pyar om3e55n1 oshhggmv qm54mken</value>
+      <webElementGuid>76d0cae1-a051-4ce3-8806-741ff076004f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continue</value>
+      <webElementGuid>8275d766-b72b-4ee4-92b7-3c51fb4f16ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scrollview&quot;)/div[@class=&quot;g4tp4svg om3e55n1 cqf1kptm alzwoclg&quot;]/div[@class=&quot;alzwoclg cqf1kptm om3e55n1&quot;]/div[@class=&quot;alzwoclg cqf1kptm om3e55n1 kyj84mfa cofpoq2j&quot;]/div[@class=&quot;bdao358l om3e55n1 g4tp4svg&quot;]/div[@class=&quot;g4tp4svg om3e55n1 cqf1kptm alzwoclg&quot;]/div[@class=&quot;alzwoclg cqf1kptm om3e55n1&quot;]/div[@class=&quot;alzwoclg cqf1kptm om3e55n1 kyj84mfa cofpoq2j&quot;]/div[@class=&quot;fawcizw8 gvxzyvdx jcxyg2ei alzwoclg o9w3sbdw&quot;]/div[@class=&quot;mfclru0v fawcizw8 gvxzyvdx cqf1kptm alzwoclg i85zmo3j&quot;]/div[@class=&quot;i85zmo3j alzwoclg cqf1kptm om3e55n1 mfclru0v g4tp4svg db8612ze&quot;]/div[@class=&quot;mfclru0v n86u31t8&quot;]/div[@class=&quot;alzwoclg om3e55n1 mfclru0v&quot;]/div[@class=&quot;bdao358l om3e55n1 g4tp4svg oab4agdp g6da2mms yn3a2qjl b52o6v01 a96hb305 mfclru0v lq84ybu9 hf30pyar b3dzj11p&quot;]/div[@class=&quot;f7rl1if4 adechonz rufpak1n qtovjlwq qbmienfq rfyhaz4c rdmi1yqr ohrdq8us nswx41af fawcizw8 l1aqi3e3 om3e55n1 sdu1flz4 dahkl6ri&quot;]/div[1]/div[1]/div[@class=&quot;om3e55n1 g4tp4svg bdao358l alzwoclg cqf1kptm jez8cy9q gvxzyvdx h6ft4zvz q6feio67&quot;]/div[@class=&quot;bdao358l om3e55n1 g4tp4svg alzwoclg cqf1kptm cgu29s5g dnr7xe2t&quot;]/div[@class=&quot;bdao358l om3e55n1 g4tp4svg alzwoclg cqf1kptm jez8cy9q gvxzyvdx s9xz0pwp c4m0enpj th51lws0 mfn553m3 gjezrb0y abh4ulrg&quot;]/div[@class=&quot;bdao358l om3e55n1 g4tp4svg alzwoclg jez8cy9q sl27f92c o9w3sbdw sr926ui1 jl2a5g8c q46jt4gp hnay576k rng1terr mtzt5fvk mmwt03ec&quot;]/div[@class=&quot;bdao358l om3e55n1 g4tp4svg alzwoclg cqf1kptm gvxzyvdx aeinzg81 cgu29s5g i15ihif8 fzd7ma4j lcfup58g o9wcebwi d2hqwtrz tgm57n0e&quot;]/div[@class=&quot;qi72231t nu7423ey n3hqoq4p r86q59rh b3qcqh3k fq87ekyn fsf7x5fv s5oniofx m8h3af8h l7ghb35v kjdc1dyq kmwttqpk srn514ro oxkhqvkx rl78xhln nch0832m cr00lzj9 rn8ck1ys s3jn8y49 o9erhkwx dzqi5evh hupbnkgi hvb2xoa8 f14ij5to l3ldwz01 icdlwmnq bdao358l fxk3tzhb cqf1kptm jcxyg2ei om3e55n1 mfclru0v&quot;]/div[@class=&quot;om3e55n1 g4tp4svg alzwoclg jez8cy9q jcxyg2ei i85zmo3j sr926ui1 jl2a5g8c k7n6ui8p b41d885q hmqrhxox got7tec9 frfouenu bonavkto djs4p424 r7bn319e bdao358l aesu6q9g e4ay1f3w n75z76so ed17d2qt&quot;]/div[@class=&quot;i85zmo3j alzwoclg jcxyg2ei dkyav5mx mw5ieb4x is65gj9g&quot;]/div[@class=&quot;bdao358l om3e55n1 g4tp4svg gvxzyvdx aeinzg81 i85zmo3j alzwoclg jez8cy9q b5om8fc7 myxxopco&quot;]/span[@class=&quot;gvxzyvdx aeinzg81 t7p7dqev gh25dzvf exr7barw b6ax4al1 gem102v4 ncib64c9 mrvwc6qr sx8pxkcf f597kf1v cpcgwwas m2nijcs8 hxfwr5lz k1z55t6l oog5qr5w innypi6y qtx5e3l4&quot;]/span[@class=&quot;b6ax4al1 lq84ybu9 hf30pyar om3e55n1 oshhggmv qm54mken&quot;]</value>
+      <webElementGuid>984244fa-7f10-49ff-8b45-8687af38b81a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollview']/div/div/div/div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[3]/div/div/div/div/div/div/span/span</value>
+      <webElementGuid>b3732be5-baf5-4619-a6bb-197e69ae2583</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Help us confirm that it', &quot;'&quot;, 's you')])[1]/following::span[2]</value>
+      <webElementGuid>b9b129a0-29c3-4d62-b1d8-639f459bbce3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fitri'])[1]/following::span[3]</value>
+      <webElementGuid>bee4900d-f478-4ea1-8131-ff9bbd70e44e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Continue']/parent::*</value>
+      <webElementGuid>5befb4b7-2257-40c6-aa4e-79d8d592480d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div/span/span</value>
+      <webElementGuid>b53f092d-1982-4133-9c3e-62f068c9cc7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Continue' or . = 'Continue')]</value>
+      <webElementGuid>a9012719-907c-4055-9bab-d8b0feef7817</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

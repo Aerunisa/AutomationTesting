@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Send Login Code</name>
+   <tag></tag>
+   <elementGuidId>12666045-5a53-4e08-aa38-3890bfe9f746</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='scrollview']/div/div/div/div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[4]/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.i85zmo3j.alzwoclg.jcxyg2ei.dkyav5mx.mw5ieb4x.is65gj9g</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c57feb02-7943-44e2-ba5f-fdce3ac3b759</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>i85zmo3j alzwoclg jcxyg2ei dkyav5mx mw5ieb4x is65gj9g</value>
+      <webElementGuid>04dbe7d3-701f-4d21-9ba0-f37afae9cb42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Send Login Code</value>
+      <webElementGuid>1e1ccadc-8d97-4c12-bc54-35be93d18d7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scrollview&quot;)/div[@class=&quot;g4tp4svg om3e55n1 cqf1kptm alzwoclg&quot;]/div[@class=&quot;alzwoclg cqf1kptm om3e55n1&quot;]/div[@class=&quot;alzwoclg cqf1kptm om3e55n1 kyj84mfa cofpoq2j&quot;]/div[@class=&quot;bdao358l om3e55n1 g4tp4svg&quot;]/div[@class=&quot;g4tp4svg om3e55n1 cqf1kptm alzwoclg&quot;]/div[@class=&quot;alzwoclg cqf1kptm om3e55n1&quot;]/div[@class=&quot;alzwoclg cqf1kptm om3e55n1 kyj84mfa cofpoq2j&quot;]/div[@class=&quot;fawcizw8 gvxzyvdx jcxyg2ei alzwoclg o9w3sbdw&quot;]/div[@class=&quot;mfclru0v fawcizw8 gvxzyvdx cqf1kptm alzwoclg i85zmo3j&quot;]/div[@class=&quot;i85zmo3j alzwoclg cqf1kptm om3e55n1 mfclru0v g4tp4svg db8612ze&quot;]/div[@class=&quot;mfclru0v n86u31t8&quot;]/div[@class=&quot;alzwoclg om3e55n1 mfclru0v&quot;]/div[@class=&quot;bdao358l om3e55n1 g4tp4svg oab4agdp g6da2mms yn3a2qjl b52o6v01 a96hb305 mfclru0v lq84ybu9 hf30pyar b3dzj11p&quot;]/div[@class=&quot;f7rl1if4 adechonz rufpak1n qtovjlwq qbmienfq rfyhaz4c rdmi1yqr ohrdq8us nswx41af fawcizw8 l1aqi3e3 om3e55n1 sdu1flz4 dahkl6ri&quot;]/div[1]/div[1]/div[@class=&quot;om3e55n1 g4tp4svg bdao358l alzwoclg cqf1kptm jez8cy9q gvxzyvdx h6ft4zvz q6feio67&quot;]/div[@class=&quot;bdao358l om3e55n1 g4tp4svg alzwoclg cqf1kptm cgu29s5g dnr7xe2t&quot;]/div[@class=&quot;bdao358l om3e55n1 g4tp4svg alzwoclg cqf1kptm jez8cy9q gvxzyvdx s9xz0pwp c4m0enpj th51lws0 mfn553m3 gjezrb0y abh4ulrg&quot;]/div[@class=&quot;bdao358l om3e55n1 g4tp4svg alzwoclg jez8cy9q sl27f92c o9w3sbdw sr926ui1 jl2a5g8c q46jt4gp hnay576k rng1terr mtzt5fvk mmwt03ec&quot;]/div[@class=&quot;bdao358l om3e55n1 g4tp4svg alzwoclg cqf1kptm gvxzyvdx aeinzg81 cgu29s5g i15ihif8 fzd7ma4j lcfup58g o9wcebwi d2hqwtrz tgm57n0e&quot;]/div[@class=&quot;qi72231t nu7423ey n3hqoq4p r86q59rh b3qcqh3k fq87ekyn fsf7x5fv s5oniofx m8h3af8h l7ghb35v kjdc1dyq kmwttqpk srn514ro oxkhqvkx rl78xhln nch0832m cr00lzj9 rn8ck1ys s3jn8y49 o9erhkwx dzqi5evh hupbnkgi hvb2xoa8 f14ij5to l3ldwz01 icdlwmnq bdao358l fxk3tzhb cqf1kptm jcxyg2ei om3e55n1 mfclru0v&quot;]/div[@class=&quot;om3e55n1 g4tp4svg alzwoclg jez8cy9q jcxyg2ei i85zmo3j sr926ui1 jl2a5g8c k7n6ui8p b41d885q hmqrhxox got7tec9 frfouenu bonavkto djs4p424 r7bn319e bdao358l aesu6q9g e4ay1f3w n75z76so ed17d2qt&quot;]/div[@class=&quot;i85zmo3j alzwoclg jcxyg2ei dkyav5mx mw5ieb4x is65gj9g&quot;]</value>
+      <webElementGuid>ae3947a8-94b3-4ab0-9a9c-081de5d95695</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollview']/div/div/div/div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[4]/div/div/div/div/div</value>
+      <webElementGuid>d90c8e0b-c148-4d57-a6f3-35605c5d0db7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter number'])[1]/following::div[7]</value>
+      <webElementGuid>c1bec7eb-77cc-482b-9d5c-96a06ef32793</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Indonesia (+62)'])[1]/following::div[14]</value>
+      <webElementGuid>1d79366a-08e6-4bca-9ea8-16a94aef3d21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/div</value>
+      <webElementGuid>bb399106-55ef-4145-84ac-02edd94a4c18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Send Login Code' or . = 'Send Login Code')]</value>
+      <webElementGuid>f963b411-9848-4d45-90ab-57da7e8dfcee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

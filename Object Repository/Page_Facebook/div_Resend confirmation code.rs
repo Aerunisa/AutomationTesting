@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Resend confirmation code</name>
+   <tag></tag>
+   <elementGuidId>e42e7f70-efe8-416e-ba1d-cc5d0f2a9db5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='scrollview']/div/div/div/div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[3]/div/div/span/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.qi72231t.nu7423ey.n3hqoq4p.r86q59rh.b3qcqh3k.fq87ekyn.bdao358l.fsf7x5fv.rse6dlih.s5oniofx.m8h3af8h.l7ghb35v.kjdc1dyq.kmwttqpk.srn514ro.oxkhqvkx.rl78xhln.nch0832m.cr00lzj9.rn8ck1ys.s3jn8y49.icdlwmnq.cxfqmxzd.d1w2l3lo.innypi6y</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>60f622d6-976b-47bf-b81d-7b5aa06d12ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>qi72231t nu7423ey n3hqoq4p r86q59rh b3qcqh3k fq87ekyn bdao358l fsf7x5fv rse6dlih s5oniofx m8h3af8h l7ghb35v kjdc1dyq kmwttqpk srn514ro oxkhqvkx rl78xhln nch0832m cr00lzj9 rn8ck1ys s3jn8y49 icdlwmnq cxfqmxzd d1w2l3lo innypi6y</value>
+      <webElementGuid>e7adaa62-acf1-4c9c-8dfb-47df06f2675b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4e3cb857-0244-477d-bc81-c294840abdbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>e1bdacda-1473-46f0-8d7e-593d88f8abf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Resend confirmation code</value>
+      <webElementGuid>59376228-e6ab-49dc-aca6-c4d5e28a245e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scrollview&quot;)/div[@class=&quot;g4tp4svg om3e55n1 cqf1kptm alzwoclg&quot;]/div[@class=&quot;alzwoclg cqf1kptm om3e55n1&quot;]/div[@class=&quot;alzwoclg cqf1kptm om3e55n1 kyj84mfa cofpoq2j&quot;]/div[@class=&quot;bdao358l om3e55n1 g4tp4svg&quot;]/div[@class=&quot;g4tp4svg om3e55n1 cqf1kptm alzwoclg&quot;]/div[@class=&quot;alzwoclg cqf1kptm om3e55n1&quot;]/div[@class=&quot;alzwoclg cqf1kptm om3e55n1 kyj84mfa cofpoq2j&quot;]/div[@class=&quot;fawcizw8 gvxzyvdx jcxyg2ei alzwoclg o9w3sbdw&quot;]/div[@class=&quot;mfclru0v fawcizw8 gvxzyvdx cqf1kptm alzwoclg i85zmo3j&quot;]/div[@class=&quot;i85zmo3j alzwoclg cqf1kptm om3e55n1 mfclru0v g4tp4svg db8612ze&quot;]/div[@class=&quot;mfclru0v n86u31t8&quot;]/div[@class=&quot;alzwoclg om3e55n1 mfclru0v&quot;]/div[@class=&quot;bdao358l om3e55n1 g4tp4svg oab4agdp g6da2mms yn3a2qjl b52o6v01 a96hb305 mfclru0v lq84ybu9 hf30pyar b3dzj11p&quot;]/div[@class=&quot;f7rl1if4 adechonz rufpak1n qtovjlwq qbmienfq rfyhaz4c rdmi1yqr ohrdq8us nswx41af fawcizw8 l1aqi3e3 om3e55n1 sdu1flz4 dahkl6ri&quot;]/div[1]/div[1]/div[@class=&quot;om3e55n1 g4tp4svg bdao358l alzwoclg cqf1kptm jez8cy9q gvxzyvdx h6ft4zvz q6feio67&quot;]/div[@class=&quot;bdao358l om3e55n1 g4tp4svg alzwoclg cqf1kptm cgu29s5g dnr7xe2t&quot;]/div[@class=&quot;bdao358l om3e55n1 g4tp4svg alzwoclg cqf1kptm jez8cy9q gvxzyvdx s9xz0pwp c4m0enpj th51lws0 mfn553m3 gjezrb0y abh4ulrg&quot;]/div[@class=&quot;bdao358l om3e55n1 g4tp4svg alzwoclg jez8cy9q sl27f92c o9w3sbdw sr926ui1 jl2a5g8c hnay576k rng1terr ktovzxj4 g1smwn4j&quot;]/div[@class=&quot;bdao358l om3e55n1 g4tp4svg alzwoclg cqf1kptm jez8cy9q gvxzyvdx aeinzg81 fzd7ma4j lcfup58g bmgto6uh f9xcifuu&quot;]/span[@class=&quot;gvxzyvdx aeinzg81 t7p7dqev gh25dzvf exr7barw b6ax4al1 gem102v4 ncib64c9 mrvwc6qr sx8pxkcf f597kf1v cpcgwwas m2nijcs8 hxfwr5lz k1z55t6l oog5qr5w tes86rjd pbevjfx6&quot;]/div[@class=&quot;qi72231t nu7423ey n3hqoq4p r86q59rh b3qcqh3k fq87ekyn bdao358l fsf7x5fv rse6dlih s5oniofx m8h3af8h l7ghb35v kjdc1dyq kmwttqpk srn514ro oxkhqvkx rl78xhln nch0832m cr00lzj9 rn8ck1ys s3jn8y49 icdlwmnq cxfqmxzd d1w2l3lo innypi6y&quot;]</value>
+      <webElementGuid>f0dea8ca-d5bb-4213-88d6-86655d281e53</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollview']/div/div/div/div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[3]/div/div/span/div</value>
+      <webElementGuid>0e600027-a1d8-4c1c-94b7-b44b627798b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To confirm your account, enter the 5-digit code that we sent to: jhonsonsteven07@gmail.com.'])[1]/following::div[8]</value>
+      <webElementGuid>fbc5caf9-d359-4ad1-b367-21c9ca431e27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter confirmation code'])[1]/following::div[10]</value>
+      <webElementGuid>0a2983e6-d1b9-4e55-a7c3-3145c4c0a66b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/preceding::div[3]</value>
+      <webElementGuid>f2989f13-e5f4-4c44-96b1-c05164ee32ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update contact info'])[1]/preceding::div[9]</value>
+      <webElementGuid>7119f720-8091-4187-8e40-6b028f2964a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Resend confirmation code']/parent::*</value>
+      <webElementGuid>7966dd5d-9f4c-44d1-9063-8fe90b1d9cb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div/div/div/div/div/div[3]/div/div/span/div</value>
+      <webElementGuid>f3deaed0-9830-45fe-a859-4efac0176daf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Resend confirmation code' or . = 'Resend confirmation code')]</value>
+      <webElementGuid>cac0d6e9-5f61-4c4d-a022-5424991ce182</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
