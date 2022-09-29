@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Lanjutkan</name>
+   <tag></tag>
+   <elementGuidId>77ba4321-6481-44e7-ba53-1ee01b58cda1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mount_0_0_6l']/div/div/div/div[3]/div/div/div/div/div/div/div/div/div/div/div/div[2]/div/div/div/div/div/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.gvxzyvdx.aeinzg81.t7p7dqev.gh25dzvf.exr7barw.b6ax4al1.gem102v4.ncib64c9.mrvwc6qr.sx8pxkcf.f597kf1v.cpcgwwas.m2nijcs8.hxfwr5lz.k1z55t6l.oog5qr5w.innypi6y.qtx5e3l4 > span.b6ax4al1.lq84ybu9.hf30pyar.om3e55n1.oshhggmv.qm54mken</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b691377d-55ff-4f9b-b84a-9d0acecc189b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>b6ax4al1 lq84ybu9 hf30pyar om3e55n1 oshhggmv qm54mken</value>
+      <webElementGuid>acf33f67-891e-4046-ac38-a0ff4c5b23ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lanjutkan</value>
+      <webElementGuid>d2e3b96f-39e2-473c-95a4-6040b5830019</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mount_0_0_6l&quot;)/div[1]/div[1]/div[@class=&quot;bdao358l om3e55n1 g4tp4svg&quot;]/div[@class=&quot;bdao358l om3e55n1 g4tp4svg&quot;]/div[@class=&quot;g4tp4svg om3e55n1 cqf1kptm alzwoclg&quot;]/div[@class=&quot;alzwoclg cqf1kptm om3e55n1&quot;]/div[@class=&quot;alzwoclg cqf1kptm om3e55n1 kyj84mfa cofpoq2j&quot;]/div[@class=&quot;alzwoclg cqf1kptm p1t2w4gn fawcizw8 om3e55n1 g4tp4svg&quot;]/div[@class=&quot;alzwoclg cqf1kptm fawcizw8&quot;]/div[@class=&quot;alzwoclg cqf1kptm cgu29s5g fawcizw8 aeinzg81&quot;]/div[@class=&quot;fawcizw8 gvxzyvdx jcxyg2ei alzwoclg o9w3sbdw&quot;]/div[@class=&quot;mfclru0v fawcizw8 gvxzyvdx cqf1kptm alzwoclg i85zmo3j&quot;]/div[@class=&quot;so0pi6mm ouoqrsg7&quot;]/div[@class=&quot;alzwoclg om3e55n1 mfclru0v&quot;]/div[@class=&quot;bdao358l om3e55n1 g4tp4svg oab4agdp g6da2mms yn3a2qjl b52o6v01 a96hb305 mfclru0v lq84ybu9 hf30pyar b3dzj11p&quot;]/div[@class=&quot;bdao358l om3e55n1 g4tp4svg alzwoclg jez8cy9q siu44isn o9w3sbdw sr926ui1 jl2a5g8c aesu6q9g e4ay1f3w rj2hsocd s1m0hq7j nuznn79q snu7ymun ktovzxj4 g1smwn4j&quot;]/div[@class=&quot;bdao358l om3e55n1 g4tp4svg alzwoclg cqf1kptm jez8cy9q gvxzyvdx aeinzg81 i5oewl5a nnzkd6d7 bmgto6uh f9xcifuu&quot;]/div[@class=&quot;qi72231t nu7423ey n3hqoq4p r86q59rh b3qcqh3k fq87ekyn fsf7x5fv s5oniofx m8h3af8h l7ghb35v kjdc1dyq kmwttqpk srn514ro oxkhqvkx rl78xhln nch0832m cr00lzj9 rn8ck1ys s3jn8y49 o9erhkwx dzqi5evh hupbnkgi hvb2xoa8 f14ij5to l3ldwz01 icdlwmnq bdao358l fxk3tzhb cqf1kptm jcxyg2ei om3e55n1 mfclru0v&quot;]/div[@class=&quot;om3e55n1 g4tp4svg alzwoclg jez8cy9q jcxyg2ei i85zmo3j sr926ui1 jl2a5g8c k7n6ui8p b41d885q hmqrhxox got7tec9 frfouenu bonavkto djs4p424 r7bn319e bdao358l aesu6q9g e4ay1f3w n75z76so ed17d2qt&quot;]/div[@class=&quot;i85zmo3j alzwoclg jcxyg2ei dkyav5mx mw5ieb4x is65gj9g&quot;]/div[@class=&quot;bdao358l om3e55n1 g4tp4svg gvxzyvdx aeinzg81 i85zmo3j alzwoclg jez8cy9q b5om8fc7 myxxopco&quot;]/span[@class=&quot;gvxzyvdx aeinzg81 t7p7dqev gh25dzvf exr7barw b6ax4al1 gem102v4 ncib64c9 mrvwc6qr sx8pxkcf f597kf1v cpcgwwas m2nijcs8 hxfwr5lz k1z55t6l oog5qr5w innypi6y qtx5e3l4&quot;]/span[@class=&quot;b6ax4al1 lq84ybu9 hf30pyar om3e55n1 oshhggmv qm54mken&quot;]</value>
+      <webElementGuid>faea13ec-9aa2-4bda-897a-f82d9bcd84c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mount_0_0_6l']/div/div/div/div[3]/div/div/div/div/div/div/div/div/div/div/div/div[2]/div/div/div/div/div/span/span</value>
+      <webElementGuid>5ef8a3fa-2910-4f8c-bb4b-cab9218a9f40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tetap Masuk'])[1]/following::span[2]</value>
+      <webElementGuid>0d70fb63-fff5-41c2-91f9-956515a7cc98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kami akan membantu Anda memeriksa perubahan terkini selanjutnya.'])[1]/following::span[3]</value>
+      <webElementGuid>72e1216f-9a44-41ea-a581-dfad84324a4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lanjutkan']/parent::*</value>
+      <webElementGuid>04395f9b-029f-4f39-9133-ae51ead0659a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/span/span</value>
+      <webElementGuid>f61e15b2-708e-4fae-b0d6-d9120d287656</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Lanjutkan' or . = 'Lanjutkan')]</value>
+      <webElementGuid>d3c75f5f-9cef-4d60-9628-0819243c71e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
